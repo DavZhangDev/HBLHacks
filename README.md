@@ -1,5 +1,5 @@
 # HBLHacks
-Scripts for Auto Logins.
+Scripts for Auto Login.
 ## For Python
 ### Instructions for Setup
 Using ```requirements.txt```:
