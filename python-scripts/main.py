@@ -1,7 +1,6 @@
 import time
 import pyautogui
 import sys
-import time
 from funcn import *
 SCREENHEIGHT = pyautogui.size()[1]
 SCREENWIDTH = pyautogui.size()[0]

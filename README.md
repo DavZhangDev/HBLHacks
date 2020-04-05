@@ -9,4 +9,10 @@ pip install -r requirements.txt
 Alternatively:
 ```
 pip install pyautogui
+pip install time
+pip install sys
+```
+Next:
+```
+python main.py
 ```
