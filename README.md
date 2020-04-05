@@ -1,7 +1,7 @@
 # HBLHacks
 Scripts for Auto Logins.
 ## For Python
-###Instructions for Setup
+### Instructions for Setup
 Using ```requirements.txt```:
 ```
 pip install -r requirements.txt
@@ -12,7 +12,7 @@ pip install pyautogui
 pip install time
 pip install sys
 ```
-Next:
+### Instructions to Run
 ```
 python main.py
 ```
