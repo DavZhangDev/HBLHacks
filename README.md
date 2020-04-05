@@ -1,6 +1,8 @@
 # HBLHacks
-Scripts for Auto Login.
+Scripts for auto login to Ivy.
 ## For Python
+### Prerequisites
+*Python 3* installed on *MacOS* / *Windows*.
 ### Instructions for Setup
 Using ```requirements.txt```:
 ```
