@@ -17,8 +17,9 @@ pip install time
 pip install sys
 ```
 ### Instructions to Run
-After:
+Execute the following:
 ```
 python main.py
 ```
 Follow instructions in console.
+Leave program running in the background, click into Google Chrome near to desired log in time.
