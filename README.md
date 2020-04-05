@@ -23,5 +23,5 @@ python main.py
 ```
 Follow instructions in console.
 Leave program running in the background, click into Google Chrome near to desired log in time.
-## Further Implementations
+## Future Implementations
 Login for MS Teams, added support for other browsers.
